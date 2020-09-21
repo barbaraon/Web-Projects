@@ -1,6 +1,6 @@
 # Project Title
 
-Extension for Google Chrome
+Extension for Google Chrome - Angry-Birds Everywhere
 
 # About the Porject
 
